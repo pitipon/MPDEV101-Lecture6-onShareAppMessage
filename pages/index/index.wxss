@@ -1,0 +1,9 @@
+/**index.wxss**/
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500rpx;
+  width: 100%;
+  background-color: greenyellow;
+}

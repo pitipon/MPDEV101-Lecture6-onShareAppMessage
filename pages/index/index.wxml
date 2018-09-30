@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class='banner'> onShareAppMessage </view>
+
+<button open-type='share'>Share this app in WeChat</button>
